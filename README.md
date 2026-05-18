@@ -1,7 +1,9 @@
 # Growvy-AI-Internship
 
 **Project Documentation**
+
 **Position**: Artificial Intelligence (AI) 
+
 **Internship Project Title**: Optimized Image Classifier Deployment   
 
 1. **Executive Summary**:
