@@ -1,4 +1,4 @@
-# Growvy-AI-Internship
+# Growvy AI Internship - Image Classifier
 
 **Project Documentation**
 
